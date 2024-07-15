@@ -64,7 +64,7 @@ function loadImage(src) {
 // all dimensions in this file are *CSS* pixels unless otherwise stated
 const DEFAULT_OPTIONS = {
   padding: 15,
-  fieldSize: 12 * 12, // inches
+  fieldSize: 192, // inches
   splineSamples: 250,
   gridLineWidth: 1, // device pixels
   gridLineColor: 'rgb(120, 120, 120)',
